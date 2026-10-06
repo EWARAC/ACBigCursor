@@ -1,0 +1,2 @@
+SHA-256
+b5e1f46a4e12c75eb64d8fdfcb90b6d84a51d54eb8245dd48eea41f73025bd07  release/AC Big Cursor Setup v0.6.0.exe
